@@ -1,13 +1,13 @@
 /* General */
+*{
+    width: 100%;
+}
 body {
     margin: 0;
     font-family: Arial, sans-serif;
     width: 100%;
   }
 
-  .home{
-    width: 100%;
-  }
   
   /* Navbar */
   .navbar {
@@ -17,8 +17,8 @@ body {
     background-color: #333;
     padding: 5px 20px;
     color: white;
-    z-index: 1000;
-    width: 100%;
+    width: 100%; /* Asegura que ocupe el 100% del ancho */
+  box-sizing: border-box; /* Incluye el padding dentro del ancho */
   }
   
   .navbar-logo a {
@@ -94,7 +94,7 @@ body {
   .hero {
     position: relative;
     background: url('../../public/images/agencia.jpg') center/cover no-repeat;
-    height: 70vh;
+    height: 75vh;
   display: flex;
   justify-content: center;
   align-items: center;
