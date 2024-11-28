@@ -4,9 +4,11 @@
     "modelo": "Toyota Corolla",
     "año": 2021,
     "fotosAdicionales": [
-      "https://www.centromotorsa.com.ar/wp-content/uploads/2020/01/Corolla_XLI_3_4_Super_-Blanco.png",
-      "https://www.centromotorsa.com.ar/wp-content/uploads/2020/01/Corolla_XLI_3_4_Super_-Blanco.png",
-      "https://www.centromotorsa.com.ar/wp-content/uploads/2020/01/Corolla_XLI_3_4_Super_-Blanco.png"
+      "../images/Corolla2019/1.jpg",
+      "../images/Corolla2019/3.jpg",
+      "../images/Corolla2019/8.jpg",
+      "../images/Corolla2019/10.jpg",
+      "../images/Corolla2019/12.jpg"
     ],
     "especificaciones": {
       "motor": "2.0L",
@@ -16,7 +18,7 @@
     },
     "contacto": {
       "telefono": "123-456-789",
-      "email": "contacto@toyota.com"
+      "email": "2494-621182"
     }
   },
   {

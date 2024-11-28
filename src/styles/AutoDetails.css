@@ -1,16 +1,16 @@
-body{
+body {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   margin: auto;
 }
+
 .auto-more-details {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: row;
-  align-items: center;
+  flex-direction: row; /* En pantallas grandes, el texto queda al costado */
   padding: 20px;
   width: 100%;
 }
@@ -30,17 +30,15 @@ body{
   transition: transform 0.3s ease;
 }
 
-.info{
+.info {
   display: flex;
   flex-direction: column;
   margin: 15px;
 }
 
-.info-text{
-margin: auto;
+.info-text {
+  margin: auto;
 }
-
-
 
 .thumbnail-image:hover {
   transform: scale(1.1);
@@ -52,7 +50,7 @@ margin: auto;
 }
 
 .large-image {
-  width: 600px;
+  width: 800px;
   height: 400px;
   object-fit: cover;
 }
@@ -90,4 +88,22 @@ margin: auto;
 .not-found-message {
   font-size: 18px;
   color: red;
+}
+
+/* Media query para dispositivos móviles */
+@media (max-width: 768px) {
+  .auto-more-details {
+    flex-direction: column; /* Cambiamos a columna para que el texto quede debajo */
+  }
+
+  .large-image {
+    width: 100%; /* Ajusta la imagen al ancho del contenedor */
+    height: auto; /* Mantén la proporción de la imagen */
+  }
+
+  .info {
+    margin-top: 20px; /* Espaciado entre la imagen y el texto */
+    margin-left: 0; /* Elimina el margen lateral en dispositivos pequeños */
+    text-align: center; /* Centra el texto debajo de la imagen */
+  }
 }
