@@ -1,0 +1,301 @@
+[
+  {
+    "id": "1",
+    "modelo": "Toyota Corolla",
+    "año": 2021,
+    "fotosAdicionales": [
+      "https://www.centromotorsa.com.ar/wp-content/uploads/2020/01/Corolla_XLI_3_4_Super_-Blanco.png",
+      "https://www.centromotorsa.com.ar/wp-content/uploads/2020/01/Corolla_XLI_3_4_Super_-Blanco.png",
+      "https://www.centromotorsa.com.ar/wp-content/uploads/2020/01/Corolla_XLI_3_4_Super_-Blanco.png"
+    ],
+    "especificaciones": {
+      "motor": "2.0L",
+      "combustible": "Gasolina",
+      "kilometraje": 15000,
+      "transmision": "Automática"
+    },
+    "contacto": {
+      "telefono": "123-456-789",
+      "email": "contacto@toyota.com"
+    }
+  },
+  {
+    "id": "2",
+    "modelo": "Honda Civic",
+    "año": 2020,
+    "fotosAdicionales": [
+      "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/m/RT_V_e3e610f4f4f04acbacbb97b281b49296.webp",
+      "https://via.placeholder.com/600x400?text=Foto+2",
+      "https://via.placeholder.com/600x400?text=Foto+3"
+    ],
+    "especificaciones": {
+      "motor": "1.8L",
+      "combustible": "Gasolina",
+      "kilometraje": 12000,
+      "transmision": "Manual"
+    },
+    "contacto": {
+      "telefono": "987-654-321",
+      "email": "contacto@honda.com"
+    }
+  },
+  {
+    "id": "3",
+    "modelo": "Ford Focus",
+    "año": 2022,
+    "fotosAdicionales": [
+      "https://www.carone.com.ar/wp-content/uploads/2021/09/renault-2022-alaskan1-300x220.png",
+      "https://via.placeholder.com/600x400?text=Foto+2"
+    ],
+    "especificaciones": {
+      "motor": "2.5L",
+      "combustible": "Gasolina",
+      "kilometraje": 8000,
+      "transmision": "Automática"
+    },
+    "contacto": {
+      "telefono": "123-000-555",
+      "email": "contacto@ford.com"
+    }
+  },
+  {
+    "id": "4",
+    "modelo": "Chevrolet Cruze",
+    "año": 2019,
+    "fotosAdicionales": [
+      "https://www.karvi.com.ar/blog/wp-content/uploads/2021/03/Cronos5-850x555.jpg",
+      "https://via.placeholder.com/600x400?text=Foto+2",
+      "https://via.placeholder.com/600x400?text=Foto+3"
+    ],
+    "especificaciones": {
+      "motor": "1.4L",
+      "combustible": "Gasolina",
+      "kilometraje": 22000,
+      "transmision": "Manual"
+    },
+    "contacto": {
+      "telefono": "234-567-890",
+      "email": "contacto@chevrolet.com"
+    }
+  },
+  {
+    "id": "5",
+    "modelo": "Nissan Altima",
+    "año": 2021,
+    "fotosAdicionales": [
+      "https://tn.com.ar/resizer/v2/cual-es-el-auto-0-km-mas-barato-para-comprar-en-agosto-2024-en-la-argentina-foto-stellantis-K3MT6LUJLVHIHBWYE6VOMTHME4.jpg?auth=354c6de9256b78989186d3e4ff9386391983e92c6ab908bcb7ea16349ae79075&width=1440",
+      "https://via.placeholder.com/600x400?text=Foto+2",
+      "https://via.placeholder.com/600x400?text=Foto+3"
+    ],
+    "especificaciones": {
+      "motor": "2.5L",
+      "combustible": "Gasolina",
+      "kilometraje": 10000,
+      "transmision": "Automática"
+    },
+    "contacto": {
+      "telefono": "345-678-901",
+      "email": "contacto@nissan.com"
+    }
+  },
+  {
+    "id": "6",
+    "modelo": "Mazda 3",
+    "año": 2020,
+    "fotosAdicionales": [
+      "https://autos0km.org/wp-content/uploads/2024/07/2.jpg",
+      "https://via.placeholder.com/600x400?text=Foto+2",
+      "https://via.placeholder.com/600x400?text=Foto+3"
+    ],
+    "especificaciones": {
+      "motor": "2.0L",
+      "combustible": "Gasolina",
+      "kilometraje": 18000,
+      "transmision": "Manual"
+    },
+    "contacto": {
+      "telefono": "456-789-012",
+      "email": "contacto@mazda.com"
+    }
+  },
+  {
+    "id": "7",
+    "modelo": "Hyundai Elantra",
+    "año": 2022,
+    "fotosAdicionales": [
+      "https://www.chevrolet.com.ar/content/dam/chevrolet/sa/argentina/espanol/index/cars/cars-subcontent/01-images/chevrolet-autos-joy-hb.jpg?imwidth=960",
+      "https://via.placeholder.com/600x400?text=Foto+2",
+      "https://via.placeholder.com/600x400?text=Foto+3"
+    ],
+    "especificaciones": {
+      "motor": "2.0L",
+      "combustible": "Gasolina",
+      "kilometraje": 5000,
+      "transmision": "Automática"
+    },
+    "contacto": {
+      "telefono": "567-890-123",
+      "email": "contacto@hyundai.com"
+    }
+  },
+  {
+    "id": "8",
+    "modelo": "Kia Sportage",
+    "año": 2021,
+    "fotosAdicionales": [
+      "https://via.placeholder.com/600x400?text=Foto+1",
+      "https://via.placeholder.com/600x400?text=Foto+2",
+      "https://via.placeholder.com/600x400?text=Foto+3"
+    ],
+    "especificaciones": {
+      "motor": "2.4L",
+      "combustible": "Gasolina",
+      "kilometraje": 12000,
+      "transmision": "Automática"
+    },
+    "contacto": {
+      "telefono": "678-901-234",
+      "email": "contacto@kia.com"
+    }
+  },
+  {
+    "id": "9",
+    "modelo": "Volkswagen Jetta",
+    "año": 2020,
+    "fotosAdicionales": [
+      "https://via.placeholder.com/600x400?text=Foto+1",
+      "https://via.placeholder.com/600x400?text=Foto+2",
+      "https://via.placeholder.com/600x400?text=Foto+3"
+    ],
+    "especificaciones": {
+      "motor": "1.4L",
+      "combustible": "Gasolina",
+      "kilometraje": 25000,
+      "transmision": "Manual"
+    },
+    "contacto": {
+      "telefono": "789-012-345",
+      "email": "contacto@volkswagen.com"
+    }
+  },
+  {
+    "id": "10",
+    "modelo": "BMW 3 Series",
+    "año": 2021,
+    "fotosAdicionales": [
+      "https://via.placeholder.com/600x400?text=Foto+1",
+      "https://via.placeholder.com/600x400?text=Foto+2",
+      "https://via.placeholder.com/600x400?text=Foto+3"
+    ],
+    "especificaciones": {
+      "motor": "2.0L",
+      "combustible": "Gasolina",
+      "kilometraje": 15000,
+      "transmision": "Automática"
+    },
+    "contacto": {
+      "telefono": "890-123-456",
+      "email": "contacto@bmw.com"
+    }
+  },
+  {
+    "id": "11",
+    "modelo": "Audi A4",
+    "año": 2020,
+    "fotosAdicionales": [
+      "https://via.placeholder.com/600x400?text=Foto+1",
+      "https://via.placeholder.com/600x400?text=Foto+2",
+      "https://via.placeholder.com/600x400?text=Foto+3"
+    ],
+    "especificaciones": {
+      "motor": "2.0L",
+      "combustible": "Gasolina",
+      "kilometraje": 20000,
+      "transmision": "Automática"
+    },
+    "contacto": {
+      "telefono": "901-234-567",
+      "email": "contacto@audi.com"
+    }
+  },
+  {
+    "id": "12",
+    "modelo": "Mercedes-Benz C-Class",
+    "año": 2021,
+    "fotosAdicionales": [
+      "https://via.placeholder.com/600x400?text=Foto+1",
+      "https://via.placeholder.com/600x400?text=Foto+2",
+      "https://via.placeholder.com/600x400?text=Foto+3"
+    ],
+    "especificaciones": {
+      "motor": "2.0L",
+      "combustible": "Gasolina",
+      "kilometraje": 15000,
+      "transmision": "Automática"
+    },
+    "contacto": {
+      "telefono": "012-345-678",
+      "email": "contacto@mercedes.com"
+    }
+  },
+  {
+    "id": "13",
+    "modelo": "Volvo XC60",
+    "año": 2022,
+    "fotosAdicionales": [
+      "https://via.placeholder.com/600x400?text=Foto+1",
+      "https://via.placeholder.com/600x400?text=Foto+2",
+      "https://via.placeholder.com/600x400?text=Foto+3"
+    ],
+    "especificaciones": {
+      "motor": "2.0L",
+      "combustible": "Gasolina",
+      "kilometraje": 3000,
+      "transmision": "Automática"
+    },
+    "contacto": {
+      "telefono": "123-555-678",
+      "email": "contacto@volvo.com"
+    }
+  },
+  {
+    "id": "14",
+    "modelo": "Lexus RX",
+    "año": 2020,
+    "fotosAdicionales": [
+      "https://via.placeholder.com/600x400?text=Foto+1",
+      "https://via.placeholder.com/600x400?text=Foto+2",
+      "https://via.placeholder.com/600x400?text=Foto+3"
+    ],
+    "especificaciones": {
+      "motor": "3.5L",
+      "combustible": "Gasolina",
+      "kilometraje": 15000,
+      "transmision": "Automática"
+    },
+    "contacto": {
+      "telefono": "234-678-901",
+      "email": "contacto@lexus.com"
+    }
+  },
+  {
+    "id": "15",
+    "modelo": "Porsche Macan",
+    "año": 2021,
+    "fotosAdicionales": [
+      "https://via.placeholder.com/600x400?text=Foto+1",
+      "https://via.placeholder.com/600x400?text=Foto+2",
+      "https://via.placeholder.com/600x400?text=Foto+3"
+    ],
+    "especificaciones": {
+      "motor": "2.0L",
+      "combustible": "Gasolina",
+      "kilometraje": 12000,
+      "transmision": "Automática"
+    },
+    "contacto": {
+      "telefono": "345-789-012",
+      "email": "contacto@porsche.com"
+    }
+  }
+]
